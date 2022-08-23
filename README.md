@@ -1,15 +1,8 @@
-# game_collection
+# Bore Killer
 
-A new Flutter project.
+A Flutter project created to help users not be bored with a compilation of mini games such as Pong, Tetris, Wordle, and Snake. User can navigate between games by scrolling downward or upward (similar to tiktok navigation style).
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+I am planning on developing this app to be consisted of more games and include offline multiplayer feature, highscore system, and achievement system.
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
