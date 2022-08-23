@@ -6,16 +6,20 @@
 
 Snapshots off the app:
  
- - Wordle: 
+ - Wordle:
+ 
  ![Screenshot 2022-08-23 140453](https://user-images.githubusercontent.com/98335699/186234936-6aa5056b-7212-4801-83ce-517afe4aa834.jpg)
  
  - Tetris:
+
  ![Screenshot 2022-08-23 140934](https://user-images.githubusercontent.com/98335699/186235022-016e9868-85f0-4c32-961e-fc7b2f34a0b4.jpg)
  
  - Snake:
+
  ![Screenshot 2022-08-23 140957](https://user-images.githubusercontent.com/98335699/186235079-b36829b5-8ab4-4859-82cf-95ce46fb25a0.jpg)
 
 - Pong:
+
 ![Screenshot 2022-08-23 140842](https://user-images.githubusercontent.com/98335699/186235155-1e4b1826-dffa-46ee-8ce3-e60bfe15721b.jpg)
 
 For help getting started with Flutter development, view the
